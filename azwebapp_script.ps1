@@ -1,0 +1,1 @@
+﻿New-AzWebApp -ResourceGroupName SysKit_Zadatak -Name "syskitwebapp44" -Location "West Europe" -AppServicePlan "ASP-SysKitZadatak-b5d3"
